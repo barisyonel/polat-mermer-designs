@@ -47,9 +47,6 @@ npm start
 - İletişim butonları ile direkt bağlantı kurma imkanı
 - Responsive tasarım ile mobil ve desktop uyumlu görüntüleme
 
-## 📱 Ekran Görüntüleri
-
-[Buraya projenizin ekran görüntülerini ekleyebilirsiniz]
 
 ## 🤝 Katkıda Bulunma
 
@@ -65,6 +62,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📞 İletişim
 
-Polat Mermer - [Website](https://www.polatmermer.com) - info@polatmermer.com
+Polat Mermer - [Website](https://www.polatmermer.com) 
 
 Proje Linki: [https://github.com/yourusername/polat-mermer-designs](https://github.com/yourusername/polat-mermer-designs)
